@@ -1,0 +1,1 @@
+# Owl-Carousel Owl Carousel 2.x.x is not compatibile with previous version 1.x.x. The idea stays the same and it has a lot in common with Owl1 but the core code was re-written from scratch and I’m very proud with all the new features.
